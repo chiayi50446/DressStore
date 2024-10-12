@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "watch": [ "/assignment2/**" ],
+    "ext": "js json",
+    "ignore": [".git/*"]
+}
